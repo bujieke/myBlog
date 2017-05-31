@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myBlog</string>
+    <string name="empty_text">null</string>
+    <string name="main_Title">我的微博</string>
+
+    <string name="home">微博</string>
+    <string name="wode">我的</string>
+    <string name="xingxi">信息</string>
+    <string name="zhangyan">张岩的微博</string>
+
+
+</resources>
